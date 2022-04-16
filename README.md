@@ -1,7 +1,7 @@
 # github_workshop_kict
 Just a short workshop for students
 
-1. What is VCS
+1. ## What is VCS
 - tracked digital assets using the Version Control system.
 - adding documentation to your code, rearranging the methods, adding or removing some classes or resources
 - Challenges in Code Management
@@ -19,9 +19,22 @@ Just a short workshop for students
   1. Revision Control System
   2. Configuration Management System
   3. Source Control Management System
+- Features of VCS
+  1. Maintain independent branches of code for team members to track their respective changes
+  2. Ease of comparison of code across different branches
+  3. Merging of code from several branches of multiple team members
+  4. The convenience of tracing changes in code to find the version that introduced a bug
+  5. Annotate changes with the name of author and message in a particular version of the code. This helps to easily identify the intent of the change
+  6. Simple comparison across versions to help resolve conflicts in code during merging
+  7. Revert changes made to the code to any state from its history.
+- Top Version Control Systems
+  1. GIT 
+  2. CVS
+  3. SVN
+  4. Assembla
+  5. Mercurial
+  6. Bazaar
 
+2. ## Next 
+  - The [Distributed Version Control Systems](./chapters/Distributed_Version_Control_Systems.md) 
 
-2. [Distributed Version Control Systems](./Distributed_Version_Control_Systems) 
-3. What is GIT?
-4. Difference between Git and GitHub?
-5. Git Life Cycle 
