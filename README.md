@@ -21,7 +21,7 @@ Just a short workshop for students
   3. Source Control Management System
 
 
-2. ![Distributed Version Control Systems](./Distributed_Version_Control_Systems) 
+2. [Distributed Version Control Systems](./Distributed_Version_Control_Systems) 
 3. What is GIT?
 4. Difference between Git and GitHub?
 5. Git Life Cycle 
